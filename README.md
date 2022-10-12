@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerson Castro</h1>
-<h3 align="center">A passionate for programming and tech world, im from Colombia</h3>
+<h3 align="center">A passionate for programming and tech world, from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3rcast&label=Profile%20views&color=0e75b6&style=flat" alt="j3rcast" /> </p>
 
