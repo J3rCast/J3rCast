@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3rcast&label=Profile%20views&color=0e75b6&style=flat" alt="j3rcast" /> </p>
 
-- 🔭 I’m currently studying on **Holberton School**
+- 🔭 I’m currently studying on **Distrital University Francisco José de Caldas**
 
 - 🌱 I’m currently learning **MongoDB, NodeJS, expresJS, C#, .NET**
 
